@@ -1,4 +1,4 @@
-# newswebsite
+# Weather website
 The "Weather Today" project is a simple web application that allows users to retrieve real-time weather information for a specific location. Users can input the name of a city or place, and the application fetches current weather data from the WeatherAPI. The project provides a user-friendly interface displaying essential weather details such as temperature, humidity, feels-like temperature, weather condition, and an icon representing the current weather.
 
 Features:
